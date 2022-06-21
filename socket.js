@@ -24,7 +24,7 @@ const userAgents = [
 const fs = require("fs");
 
 if (process.argv.length != 6)
-  return console.log("node proxy-socket.js <host> <proxy> <time> <reqs>");
+  return console.log("node socket.js <host> <proxy> <time> <reqs>");
 
 const args = {
   host: process.argv[2],
