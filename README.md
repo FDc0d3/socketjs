@@ -1,5 +1,7 @@
 # socketjs
-am not the owner of  this script lol
+2020 public script xD
 
-cmd usage:
-   node socket.js <host> <proxy> <time> <reqs>
+# cmd usage
+```
+node socket.js <host> <proxy> <time> <reqs>
+```
